@@ -1,2 +1,8 @@
-# Reinforcement-Learning-practices
-강화학습 실습 코드
+# Reinforcement Learning for Recommender System 
+## RL / RL+RS practices
+
+### Multi-Armed Bandits Algorithms
+- Esilon-greey
+- UCB
+- Thomspon Sampling
+- Contexual Bandits
